@@ -23,6 +23,10 @@
     $float1 = 2.1;
     $bool1 = true;
 
+    // constants 
+
+    define ('GREETING', 'Well hello Constant', true);
+
 
     // echo $result;
 
@@ -31,7 +35,10 @@
     // echo $greeting;
     // echo $greeting2;
 
-    echo $string3;
+    // echo $string3; 
+
+    // echo GREETING;
+    echo greeting;
 
 
 ?>
