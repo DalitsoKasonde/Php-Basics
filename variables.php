@@ -38,7 +38,7 @@
     // echo $string3; 
 
     // echo GREETING;
-    echo greeting;
+    echo GREETING;
 
 
 ?>
